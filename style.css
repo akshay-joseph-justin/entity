@@ -148,4 +148,22 @@ footer {
         
       }
     }
-  
+
+
+    .contact-section {
+      background-color: rgb(30, 56, 89);
+      padding: 50px 0;
+  }
+  .contact-info {
+      padding: 20px;
+      background-color: rgb(31, 71, 111);
+      border-radius: 5px;
+  }
+  .contact-form {
+      background-color: rgb(31, 71, 111);
+      border-radius: 5px;
+  }
+  .contact-form h3 {
+      font-weight: bold;
+      margin-bottom: 20px;
+  }
